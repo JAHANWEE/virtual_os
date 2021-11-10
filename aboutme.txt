@@ -1,0 +1,31 @@
+Hello everyone, I am delighted to share with you my virtual OS.
+
+An overview of the OS:
+
+TechStack : Go ,Fyne
+
+
+Highlights:
+DRUM KIT : Play like a drummer for a day with this fun drum set.
+Clock : to show the time
+Snake game: to take you back in time... I played it a lot as a kid
+Affirmations: keep you going throughout the day
+Nados: To practice DSA, DEV, etc. 
+Notepad: for storing all your texts
+Photos : a place to show off your photos
+Calculator: for quick calculations
+Weather app: provides weather updates
+Color Picker: A color-picking game
+Sticky notes: to note important things
+
+ABOUT THE DEVELOPER:
+Hello , I am Jahanwee . I love to create cool stuff and take challenges.
+Currently, I'm a 3rd year undergrad in the computer science stream.
+Feel free to get in touch if you're interested in similar work.
+
+
+Credits:
+Thank you Sumeet sir for giving me this wonderful opportunity to do something crazy and out of my comfort zone.
+Contact:
+Email: jahanwee2001@gmail.com
+
